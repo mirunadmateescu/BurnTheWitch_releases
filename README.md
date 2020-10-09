@@ -247,7 +247,7 @@ Lower Right - Storage space for Influence Windows, Raw Meshes etc.
     - **+SkinPaint** 
     
         Shortcut to the "Paint Skin Weights Tool", click ">Grab" first or 
-        select the mesh in the Viewport.
+        select the mesh in the Viewport. 
     
 - **Weightpainting windows**
 
